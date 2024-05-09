@@ -1,6 +1,6 @@
 ### Junior Software Engineer
 
-I have been programming in C# for more than 2 years, before that, I programmed in Delphi for 1 and a half years. Currently, I am switching my career from a back-end developer to a full-stack developer, working with TypeScript and framework Next.Js aside from C#. Also, I have been deepening my knowledge of REST APIs, good programming practices, SOLID principles, Clean Code and Software Architecture.
+I have been programming in C# for more than 2 years, before that, I programmed in Delphi for 1 and a half years. Currently, I am switching my career from a back-end developer to a full-stack developer, working with TypeScript and the framework Next.Js, aside from C#. Also, I have been deepening my knowledge of REST APIs, good programming practices, SOLID principles, Clean Code and Software Architecture.
 
 **GitHub contributions and most used programming languages:**
 
